@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# Virtual environment
+venv/
+.venv/
+ENV/
+env/
+
+# IDE files
+.vscode/
+.idea/
+
+# Output files
+output.json
+
+# Logs
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Data files (OPTIONAL—if you don't want sample inputs tracked)
+# Uncomment if needed:
+# data/*.pdf
+# data/*.txt
+
+# PyPDF garbage
+*.pdf.tmp
+
+# Cache
+.cache/
