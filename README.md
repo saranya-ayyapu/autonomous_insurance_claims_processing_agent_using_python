@@ -32,7 +32,7 @@ I have used antigravity(Gemini), Chatgpt for faster development
    - 1 written sample file
 
 **Short description of each files and their purpose:**
-src/extractor.py -> Reads raw text from PDF/TXT claim documents and extracts structured fields.
-src/validator.py -> Validates extracted claim data.
-src/router.py -> Decides which processing route the claim should follow.
-main.py -> Central controller of the entire project.
+- src/extractor.py -> Reads raw text from PDF/TXT claim documents and extracts structured fields.
+- src/validator.py -> Validates extracted claim data.
+- src/router.py -> Decides which processing route the claim should follow.
+- main.py -> Central controller of the entire project.
