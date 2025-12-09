@@ -1,0 +1,25 @@
+FNOL REPORT
+Date: 2023-10-25
+Policy Number: POL-123456789
+Policyholder Name: John Doe
+Effective Dates: 2023-01-01 to 2023-12-31
+
+Incident Details
+Date: 2023-10-24
+Time: 14:30
+Location: 123 Maple St, Springfield
+Description: A tree branch fell on my car during a storm. Windshield extraction needed.
+
+Involved Parties
+Claimant: John Doe
+Contact: john.doe@email.com, 555-0101
+Third Parties: None
+
+Asset Details
+Asset Type: Vehicle
+Asset ID: VIN-ABC123XYZ
+Estimated Damage: $1,500
+Claim Type: Property Damage
+
+Attachments: photos.zip, estimate.pdf
+Initial Estimate: $1500

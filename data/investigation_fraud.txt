@@ -1,0 +1,22 @@
+CLAIM REPORT
+Policy No: POL-FRAUD-001
+Name: Slippery Pete
+Dates: 2023-11-01 to 2024-11-01
+
+Incident
+Date: 2023-11-02
+Time: 23:45
+Location: Dark Alley, Gotham
+Description: Staged accident involving two cars. It felt inconsistent with the damage seen. Possible fraud.
+
+Claimant: Slippery Pete
+Contact: 555-9999
+
+Asset
+Type: Car
+ID: VIN-999
+Damage: $5,000
+Claim Type: Collision
+
+Attachments: photos.jpg
+Initial Estimate: $5000

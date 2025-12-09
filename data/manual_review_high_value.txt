@@ -1,0 +1,21 @@
+FIRST NOTICE OF LOSS
+Policy Number: POL-987654321
+Policyholder: Alice Smith
+Policy Period: 2023-05-01 - 2024-05-01
+
+Incident Info
+Date of Incident: 2023-11-10
+Time: 03:00 AM
+Location: 456 Oak Ave, Metropolis
+Description: Fire broke out in the warehouse destroying most of the inventory.
+
+Claimant: Alice Smith
+Contact Info: alice.s@email.com
+
+Asset: Commercial Property
+Asset ID: PROP-456
+Damage Estimate: $500,000
+Claim Type: Fire
+
+Attachments: fire_report.pdf
+Initial Estimate: $500000

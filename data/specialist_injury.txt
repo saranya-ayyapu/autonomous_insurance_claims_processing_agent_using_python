@@ -1,0 +1,23 @@
+FNOL
+Policy #: POL-INJURY-777
+Holder: Sarah Connor
+Term: 2023-01-01 / 2024-01-01
+
+Incident
+Date: 2023-08-29
+Time: 10:00
+Location: Cyberdyne Systems
+Description: Slip and fall in the lobby resulting in a broken arm. High medical expenses expected.
+
+Parties
+Claimant: Sarah Connor
+Contact: sarah@resistance.org
+
+Asset
+Type: Liability
+ID: N/A
+Damage: $50,000
+Claim Type: Injury
+
+Attachments: medical_report.pdf
+Initial Estimate: $50000
